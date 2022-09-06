@@ -1,0 +1,20 @@
+{
+  "name": "somtoday",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "esbuild --minify  --bundle .\\NextHourWidgetSetupVersion2.js --outfile=nextHourWidgetSetupTesting.js"
+  },
+  "devDependencies": {
+    "@types/scriptable-ios": "^1.6.5"
+  },
+  "dependencies": {
+    "esbuild": "^0.15.6",
+    "ical.js": "^1.5.0",
+    "minify": "^8.0.4",
+    "rollup": "^2.78.1"
+  }
+}

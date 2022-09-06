@@ -1,0 +1,164 @@
+[
+    [],
+    [
+        {
+            "vak": "vw6.nat2",
+            "lokaal": "t29",
+            "hour": 3
+        },
+        {
+            "vak": "vw6bentl",
+            "lokaal": "e42",
+            "hour": 4
+        },
+        {
+            "vak": "vw6.lb2",
+            "lokaal": "t11",
+            "hour": 5
+        },
+        {
+            "vak": "vw6.wisb3",
+            "lokaal": "t41",
+            "hour": 6
+        },
+        {
+            "vak": "vw6bnetl",
+            "lokaal": "e18",
+            "hour": 7
+        },
+        {
+            "vak": "vw6.schk2",
+            "lokaal": "t30",
+            "hour": 8
+        },
+        {
+            "vak": "vw6.lakc1",
+            "lokaal": "e38",
+            "hour": 9
+        }
+    ],
+    [
+        {
+            "vak": "vw6.dcu1",
+            "lokaal": "e06",
+            "hour": 1
+        },
+        {
+            "vak": "vw6.nat2",
+            "lokaal": "t29",
+            "hour": 2
+        },
+        {
+            "vak": "vw6.schk2",
+            "lokaal": "t30",
+            "hour": 3
+        },
+        {
+            "vak": "vw6.dcu1",
+            "lokaal": "t08",
+            "hour": 4
+        },
+        {
+            "vak": "vw6.lakc1",
+            "lokaal": "e38",
+            "hour": 5
+        },
+        {
+            "vak": "vw6.lakc1",
+            "lokaal": "e38",
+            "hour": 6
+        }
+    ],
+    [
+        {
+            "vak": "vw6.in1",
+            "lokaal": "e24i",
+            "hour": 1
+        },
+        {
+            "vak": "vw6.in1",
+            "lokaal": "e24i",
+            "hour": 2
+        },
+        {
+            "vak": "vw6.econ2",
+            "lokaal": "e05",
+            "hour": 3
+        },
+        {
+            "vak": "vw6.schk2",
+            "lokaal": "t22",
+            "hour": 5
+        },
+        {
+            "vak": "vw6.lakc1, vw5.lakc1",
+            "lokaal": "e49",
+            "hour": 7
+        },
+        {
+            "vak": "vw6.lakc1, vw5.lakc1",
+            "lokaal": "e49",
+            "hour": 8
+        }
+    ],
+    [
+        {
+            "vak": "vw6.nat2",
+            "lokaal": "t29",
+            "hour": 2
+        },
+        {
+            "vak": "vw6blo",
+            "lokaal": "sp1",
+            "hour": 3
+        },
+        {
+            "vak": "vw6bentl",
+            "lokaal": "e42",
+            "hour": 5
+        },
+        {
+            "vak": "vw6.lb2",
+            "lokaal": "t03",
+            "hour": 6
+        },
+        {
+            "vak": "vw6.wisb3",
+            "lokaal": "t44",
+            "hour": 7
+        },
+        {
+            "vak": "vw6.econ2",
+            "lokaal": "e04",
+            "hour": 9
+        }
+    ],
+    [
+        {
+            "vak": "vw6.wisb3",
+            "lokaal": "t39",
+            "hour": 1
+        },
+        {
+            "vak": "vw6.wisb3",
+            "lokaal": "t41",
+            "hour": 3
+        },
+        {
+            "vak": "vw6.in1",
+            "lokaal": "e24i",
+            "hour": 4
+        },
+        {
+            "vak": "vw6bnetl",
+            "lokaal": "t11",
+            "hour": 5
+        },
+        {
+            "vak": "vw6.econ2",
+            "lokaal": "e04",
+            "hour": 7
+        }
+    ],
+    []
+]

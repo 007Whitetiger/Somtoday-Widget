@@ -1,0 +1,38 @@
+[ [], [
+        {
+            "vak": "Nederlandse taal en literatuur",
+            "lokaal": "e20",
+            "hour": 1 
+        },
+        {
+            "vak": "economie",
+            "lokaal": "e04",
+            "hour": 2
+        },
+        {
+            "vak": "scheikunde",
+            "lokaal": "t30",
+            "hour": 3
+        },
+        {
+            "vak": "Wiskunde B",
+            "lokaal": "t41",
+            "hour": 4
+        },
+        {
+            "vak": "lichamelijke opvoeding",
+            "lokaal": "e20",
+            "hour": 6
+        },
+        {
+            "vak": "wiskunde B",
+            "lokaal": "t41",
+            "hour": 7
+        },
+        {
+            "vak": "natuurkunde",
+            "lokaal": "t34",
+            "hour": 8
+        }
+    ]
+]

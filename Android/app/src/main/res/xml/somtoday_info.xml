@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:description="@string/app_widget_description"
+    android:initialKeyguardLayout="@layout/somtoday"
+    android:initialLayout="@layout/somtoday"
+    android:minWidth="165dp"
+    android:minHeight="70dp"
+    android:previewImage="@drawable/somtoday_widget_preview"
+    android:resizeMode="horizontal|vertical"
+    android:updatePeriodMillis="108000"
+    android:widgetCategory="home_screen" />

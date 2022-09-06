@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Somtoday Widget</string>
+    <string name="widget_log_tag">SomtodayWidget</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+    <string name="loading_subjectName">Loading…</string>
+    <string name="loading_subjectInfo">retrieving data</string>
+
+
+    <string name="main_activity_add_file">Add File</string>
+    <string name="main_activity_open_website">Open website</string>
+    <string name="main_activity_info_message">Enter the file you got from the link below:</string>
+    <string name="main_activity_success_message">Successfully saved and parsed file!</string>
+    <string name="main_activity_fail_malformed_file">The file does not have the correct format!</string>
+    <string name="main_activity_fail_could_not_open_file">The file could not be opened, try moving it!</string>
+    <string name="main_activity_fail_no_file_entered">No file entered!</string>
+    <string name="main_activity_auto_update_message">Enter URL for auto update!</string>
+    <string name="main_activity_auto_update_button">UPDATE</string>
+    <string name="main_activity_auto_update_success">Your somtoday data was successfully updated</string>
+    <string name="main_activity_auto_update_malformed_data">Something went wrong while parsing your file. Please try again and check if the URL was correct, or else contact us!</string>
+    <string name="main_activity_no_url_input">Please add a url!</string>
+</resources>
